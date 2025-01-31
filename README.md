@@ -54,8 +54,8 @@ STEP-8 Verify Functionality on FPGA
 
 
 # PROGRAM
-Developed by: PREM KUMAR G
-Register number: 212223230158
+Developed by: Omkar Varma S 
+Register number: 24008163
 ``` 
 module Exp_05(a0,a1,a2,d0,d1,d2,d3,d4,d5,d6,d7);
 input d0,d1,d2,d3,d4,d5,d6,d7;
